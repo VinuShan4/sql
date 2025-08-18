@@ -54,7 +54,7 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 **HINT:** search type 1 vs type 2 slowly changing dimensions. 
 
 ```
-Your answer...
+The table with data that will be overwritten is type 1. Wheras the table that will retain changes is type2.
 ```
 
 ***
